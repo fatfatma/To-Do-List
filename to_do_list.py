@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import simpledialog, messagebox
 
-# Initialize list
+# Initialize 
 to_do_list = []
 
 # Functions
